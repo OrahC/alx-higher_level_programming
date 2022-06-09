@@ -1,3 +1,2 @@
 #!/usr/bin/python3
-import cool_python
-
+import easy_print_101
